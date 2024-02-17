@@ -4,3 +4,8 @@
 - [[https://go.dev/learn/][Official Source]]
 
 ** Learn
+- Pearson Education - Go in 4 Hours
+- Self Learn
+** Pearson
+- [[https://github.com/AdminTurnedDevOps/PearsonCourses/tree/main/Go-Course][Github]]
+- [[https://acethecloud.com/blog/functional-programming-golang/#google_vignette][Functional programming]] in Go for Beginners
